@@ -1,0 +1,11 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "Initial logic to bootstrap a game",
+  "devDependencies": {
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0"
+  },
+  "author": "Tiago Correia",
+  "license": "ISC"
+}
