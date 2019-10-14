@@ -44,7 +44,7 @@ module.exports.loop = () => {
         }
     }
     
-    if(current.harvesters < max.harvesters) {
+    if(current.harvester < max.harvester) {
         spawner.creep(Game.spawns['Inibria'], "harvester", isEmergencyMode);
     }
     
